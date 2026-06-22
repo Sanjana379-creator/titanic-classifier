@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/train_and_test2.csv
+__pycache__/
+*.pyc
